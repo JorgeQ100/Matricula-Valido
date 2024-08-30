@@ -1,0 +1,21 @@
+Pasos para Ejecutar 
+
+1.Preparar el Entorno
+	-Instalar Node.js v18.20.4 y npm v10.7.0 para el desarrollo en Angular.
+	-Instalar Java y Maven para el desarrollo en Spring Boot.
+	
+2.Configuración y Ejecución de Angular
+	-Clonar o Descargar el Proyecto desde el repositorio.
+	-(El proyecto estará disponible en http://localhost:4200).
+	-Nota: El proyecto de Angular utiliza Angular v18.2.2.
+
+3.Configuración y Ejecución de Spring Boot
+	-Clonar o Descargar el Proyecto desde el repositorio.
+	-(El backend estará disponible en http://localhost:8080).
+	-Nota: El proyecto de Spring Boot fue creado utilizando Eclipse IDE con JDK 21
+	, Maven 3.9.9, y Spring Boot 4 desde el Eclipse Marketplace.
+	
+4.Verificar la Conexión
+
+
+5.Abrir http://localhost:4200, ingresar datos en el formulario y verificar los resultados.
